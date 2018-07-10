@@ -25,5 +25,11 @@ print("Hi! Please Enter Your name:")
 name = input()
 
 #introduction of the len command
-print("Nice to meet you ",name)
-print("You have ", len(name), "letters in your name")
+print("Nice to meet you",name)
+print("You have",len(name), "letters in your name")
+
+#casting int to a string
+print("Please enter your age: ")
+age = input()
+
+print("You are " + str(age), "years old")

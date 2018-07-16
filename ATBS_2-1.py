@@ -1,4 +1,4 @@
-#basic practice of conditionals and booleans
+# basic practice of conditionals and booleans
 # indentation delimits blocks, blocks dont end until the indentation ends
 
 print("Please enter your name")

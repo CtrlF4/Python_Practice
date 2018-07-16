@@ -5,4 +5,4 @@ This is a summary of my practice work as I read through automate the boring stuf
 
 All exercises are being done using Python 3 and in the PyCharm Community IDE.
 
-Current progress 2 / 18
+## Current progress 2 / 18
